@@ -1,0 +1,2 @@
+# bitnamimoodle
+Bitnami Moodle
