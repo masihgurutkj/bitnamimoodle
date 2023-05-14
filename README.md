@@ -1,2 +1,2 @@
-# bitnamimoodle
+# Bitnami Moodle
 Bitnami Moodle
